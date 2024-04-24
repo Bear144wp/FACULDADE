@@ -1,0 +1,19 @@
+h1{
+    background-color: black; color: red;
+}
+img {
+    border: 200px blue;
+    height: 300px;
+    filter: sepia(100%);
+}
+img:hover{
+    filter: drop-shadow(100%);
+    height: 900px;
+}
+
+
+
+table{
+    color: chartreuse;
+    list-style-type: upper-roman;
+}
